@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FakerRotatingDashboard
 Fake Rotating Dashboard Script merupakan sebuah perintah yang dapat digunakan untuk melakukan pembuatan data dari file excel. Langkah Pembuatan :
 
@@ -18,3 +19,9 @@ Fake Rotating Dashboard Script merupakan sebuah perintah yang dapat digunakan un
     <li>Lakukan migrasi database dengan perintah yarn sequelize db:migrate</li>
     <li>Lakukan proses seeding dengan perintah yarn sequelize db:seed:all</li>
 </ol>
+=======
+# Faker Rotating Dashboard
+Fake Rotating Dashboard Script merupakan sebuah perintah yang dapat digunakan untuk melakukan pembuatan data dari file excel.
+Langkah Pembuatan :
+
+>>>>>>> 75ebe7641d2b38266c2d68564911431294a5bd0c
