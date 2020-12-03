@@ -28,10 +28,6 @@ module.exports = {
         allowNull : true,
         type : "DATE"
       },
-      initial_date : {
-        allowNull : false,
-        type : "DATE"
-      },
       dvr_ob: {
         type: Sequelize.FLOAT,
         defaultValue : 0

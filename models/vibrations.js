@@ -69,10 +69,10 @@ const Vibrations = db.define('project_vibrations', {
         type : Sequelize.FLOAT
       },
       max_level:{
-        type: Sequelize.STRING
+        type: Sequelize.FLOAT
       },
       position:{
-        type : Sequelize.STRING
+        type : Sequelize.FLOAT
       },
       type : {
         type : Sequelize.STRING

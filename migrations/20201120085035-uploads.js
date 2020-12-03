@@ -17,6 +17,10 @@ module.exports = {
         allowNull : false,
         type : Sequelize.STRING
       },
+      month : {
+        allowNull : false,
+        type : Sequelize.INTEGER
+      },
       year : {
         allowNull : false,
         type : Sequelize.INTEGER
