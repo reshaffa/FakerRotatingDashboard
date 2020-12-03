@@ -14,7 +14,7 @@ Fake Rotating Dashboard Script merupakan sebuah perintah yang dapat digunakan un
     </li>
     <li>Buatlah sebuah folder uploads di dalam folder seeders</li>
     <li>Isikan folder uploads dengan file berformat .xlsx</li>
-    <li>Buatlah sebuah database dengan nama test_rotating dengan cara yarn sequelize db:create --name test_rotating</li>
-    <li>Lakukan migrasi database dengan perintah yarn sequelize db:migrate</li>
-    <li>Lakukan proses seeding dengan perintah yarn sequelize db:seed:all</li>
+    <li>Buatlah sebuah database dengan nama test_rotating dengan cara <b>yarn sequelize db:create --name test_rotating</b></li>
+    <li>Lakukan migrasi database dengan perintah <b>yarn sequelize db:migrate</b></li>
+    <li>Lakukan proses seeding dengan perintah <b>yarn sequelize db:seed:all</b></li>
 </ol>
